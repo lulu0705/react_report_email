@@ -1,0 +1,44 @@
+[
+    {
+        "id":"three",
+        "category":"居家收納",
+        "name":"精緻居家清潔",
+        "location":"桃園市",
+        "time":"每日 13:00 ~ 18:30",
+        "store_avatar":"/images/store/liferoom1.png",
+        "image":"/images/service/liferoom1.png",
+        "price":400,
+        "currency":"NT",
+        "company":"潔力居家清潔公司",
+        "hour":"小時",
+        "MoreInfo":"您好，潔力居家清潔公司希望能為您服務！"
+    },
+    {
+        "id":"five",
+        "category":"居家收納",
+        "name":"專業整理收納師",
+        "location":"新北市",
+        "time":"每日 00:00 ~ 24:00",
+        "store_avatar":"/images/store/liferoom2.png",
+        "image":"/images/service/liferoom2.png",
+        "price":700,
+        "currency":"NT",
+        "company":"空間整理收納",
+        "hour":"小時",
+        "MoreInfo":"在整理的過程中會透過聊天及科學慣用腦測試，了解適合屋主的收納方式。整理，能走進內心，發現自己所需要的！物品就是我們內心的反射，讓我們一起邁向理想生活吧！"
+    },
+    {
+        "id":"eleven",
+        "category":"居家收納",
+        "name":"整理收納諮詢師",
+        "location":"新北市",
+        "time":"每日 09:00 ~ 17:00",
+        "store_avatar":"/images/store/liferoom3.png",
+        "image":"/images/service/liferoom3.png",
+        "price":650,
+        "currency":"NT",
+        "company":"整理日和",
+        "hour":"小時",
+        "MoreInfo":"【專業證照】居家整聊室中階整聊師資格認證。日本清掃協會專業整理收納師1級認證。華岡興業基金會ACP整理收納諮詢師認證。"
+    }
+]

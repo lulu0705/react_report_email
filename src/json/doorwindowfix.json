@@ -1,0 +1,44 @@
+[
+    {
+        "id":"seven",
+        "category":"門窗裝修",
+        "name":"黑色淋浴拉門乾溼分離",
+        "location":"臺中市",
+        "time":"每日 08:00 ~ 17:00",
+        "store_avatar":"/images/store/windowdoor1.png",
+        "image":"/images/service/windowdoor1.png",
+        "price":3000,
+        "currency":"NT",
+        "company":"即時修專業水電",
+        "hour":"件",
+        "MoreInfo":"2022年廠商報價與安裝費有調整，以聊聊實際報價為主。每年安裝上千堂淋浴拉門，給您最專業、安全的服務，是您可信賴的專業團隊！"
+    },
+    {
+        "id":"nine",
+        "category":"門窗裝修",
+        "name":"窗簾衛浴鋁百葉",
+        "location":"高雄市",
+        "time":"每日 08:00 ~ 21:00",
+        "store_avatar":"/images/store/windowdoor2.png",
+        "image":"/images/service/windowdoor2.png",
+        "price":100,
+        "currency":"NT",
+        "company":"百繕鋁門窗",
+        "hour":"次",
+        "MoreInfo":"各位好本公司百繕鋁門窗將在2022年持續為您服務，專營:氣密窗、鋁門窗、白鐵門窗、門窗安裝維修。歡迎有任何問題、詢價，非常樂意回覆，請聯絡吳先生0938220830"
+    },
+    {
+        "id":"thirteen",
+        "category":"門窗裝修",
+        "name":"你需要的窗簾我都有",
+        "location":"桃園市",
+        "time":"每日 09:00 ~ 21:00",
+        "store_avatar":"/images/store/windowdoor3.png",
+        "image":"/images/service/windowdoor3.png",
+        "price":300,
+        "currency":"NT",
+        "company":"佑森窗簾傢飾行",
+        "hour":"次",
+        "MoreInfo":"各位好本公司百繕鋁門窗將在2022年持續為您服務，專營:氣密窗、鋁門窗、白鐵門窗、門窗安裝維修。歡迎有任何問題、詢價，非常樂意回覆，請聯絡吳先生0938220830"
+    }
+]

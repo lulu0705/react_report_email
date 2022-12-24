@@ -1,0 +1,44 @@
+[
+    {
+        "id":"one",
+        "category":"除塵瞞服務",
+        "name":"殺菌服務",
+        "location":"新北市",
+        "time":"每日 09:00 ~ 22:00",
+        "store_avatar":"/images/store/bugclear1.png",
+        "image":"/images/service/bugclear1.png",
+        "price":30,
+        "currency":"NT",
+        "company":"朝華企業-消毒除蟲白蟻防治",
+        "hour":"坪",
+        "MoreInfo":"本公司於業界已經30年，不論是白蟻、老鼠、蛀蟲、蟑螂...等害蟲都可以有效且快速抑制1.裝潢前木材白蟻防護、白蟻防治(五年保固)2.潮濕蟲 檢測及防治3.蛀蟲防治4.各式營業場所消毒殺菌"
+    },
+    {
+        "id":"four",
+        "category":"除塵瞞服務",
+        "name":"居家除塵蟎",
+        "location":"臺北市",
+        "time":"每日 08:00 ~ 24:00",
+        "store_avatar":"/images/store/bugclear2.png",
+        "image":"/images/service/bugclear2.png",
+        "price":1600,
+        "currency":"NT",
+        "company":"淨域居家除塵工作室",
+        "hour":"件",
+        "MoreInfo":"您好，淨域居家除塵工作室希望能為您服務！"
+    },
+    {
+        "id":"twelve",
+        "category":"除塵瞞服務",
+        "name":"除塵螨",
+        "location":"臺北市",
+        "time":"每日 09:00 ~ 18:00",
+        "store_avatar":"/images/store/bugclear3.png",
+        "image":"/images/service/bugclear3.png",
+        "price":2200,
+        "currency":"NT",
+        "company":"潔力居家清潔公司",
+        "hour":"次",
+        "MoreInfo":"我們使用的是符合國家標準，並有SGS檢驗證明或美國農業部食品安全局的認證之環保清潔劑，只希望能帶給所有個客戶一個安心舒適的居家環境，不用擔心化學致癌物質及環境賀爾蒙的殘留，讓環境永續，地球長存，為了我們的下一代盡一點點的努力！"
+    }
+]

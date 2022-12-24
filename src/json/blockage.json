@@ -1,0 +1,44 @@
+[
+    {
+        "id":"six",
+        "category":"抓漏堵塞",
+        "name":"水管堵塞疏通",
+        "location":"臺中市",
+        "time":"每日 00:00 ~ 24:00",
+        "store_avatar":"/images/store/bathroom1.png",
+        "image":"/images/service/bathroom1.png",
+        "price":300,
+        "currency":"NT",
+        "company":"專業防水抓漏工程公司",
+        "hour":"次",
+        "MoreInfo":"您好，專業防水抓漏工程公司希望能為您服務！"
+    },
+    {
+        "id":"fourteen",
+        "category":"抓漏堵塞",
+        "name":"抓漏專家",
+        "location":"桃園市",
+        "time":"每日 09:00 ~ 17:00",
+        "store_avatar":"/images/store/bathroom2.png",
+        "image":"/images/service/bathroom2.png",
+        "price":888,
+        "currency":"NT",
+        "company":"東方建設有限公司",
+        "hour":"次",
+        "MoreInfo":"您好，有任何問題都歡迎直接來電洽詢，謝謝！"
+    },
+    {
+        "id":"fifteen",
+        "category":"抓漏堵塞",
+        "name":"居家水電修繕",
+        "location":"新北市",
+        "time":"每日 08:00 ~ 21:00",
+        "store_avatar":"/images/store/bathroom3.png",
+        "image":"/images/service/bathroom3.png",
+        "price":300,
+        "currency":"NT",
+        "company":"佳宏水電行",
+        "hour":"次",
+        "MoreInfo":"您好，佳宏水電行希望能為您服務！"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "id":"two",
+        "category":"室內清潔",
+        "name":"居家清潔",
+        "location":"新北市",
+        "time":"每日 00:00 ~ 24:00",
+        "store_avatar":"/images/store/lifeclear1.png",
+        "image":"/images/service/lifeclear1.png",
+        "price":473,
+        "currency":"NT",
+        "company":"到府服務個人工作室",
+        "hour":"小時",
+        "MoreInfo":"能為您做簡易收納、衣物清洗、打掃客廳、餐廳、廚房、衛浴、臥室、前後陽台...等。"
+    },
+    {
+        "id":"eight",
+        "category":"室內清潔",
+        "name":"葉師傅室內清潔",
+        "location":"台中市",
+        "time":"每日 00:00 ~ 24:00",
+        "store_avatar":"/images/store/lifeclear2.png",
+        "image":"/images/service/lifeclear2.png",
+        "price":500,
+        "currency":"NT",
+        "company":"居家清潔打掃-66清潔公司",
+        "hour":"小時",
+        "MoreInfo":"工程不分大小，均以最高格調待之，服務態度親切，細心施工，細節都以放大鏡檢視完成，任何狀況都會細心詳細為業主匯報，服務第一.品質第一"
+    },
+    {
+        "id":"ten",
+        "category":"室內清潔",
+        "name":"新竹居家清潔",
+        "location":"新竹市",
+        "time":"每日 08:00 ~ 17:00",
+        "store_avatar":"/images/store/lifeclear3.png",
+        "image":"/images/service/lifeclear3.png",
+        "price":500,
+        "currency":"NT",
+        "company":"新竹居家清潔醫生Dr.Clean",
+        "hour":"小時",
+        "MoreInfo":"您好，有任何問題都歡迎直接來電洽詢，謝謝！"
+    }
+    
+]
